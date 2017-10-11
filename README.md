@@ -1,3 +1,3 @@
 # Apache  Spark Tutorials
 Example Code & Notebooks for Apache Spark Tutorials @ Learning Journal  
-Visit https://www.youtube.com/learningjournalin for Video Tutorials
+Visit [Learning Journal @ Youtube](https://www.youtube.com/learningjournalin for Video Tutorials)
